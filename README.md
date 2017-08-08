@@ -1,5 +1,5 @@
 # Getting Started
-1. Download as a zip file from "placeholder github".
+1. Download as a zip file from https://github.com/rrose3/frontend-nanodegree-arcade-game.git
 2. Extract files and run index.html.
 
 # How to play
